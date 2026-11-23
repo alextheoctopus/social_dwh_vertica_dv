@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and passwords
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Database files
+vertica_data/
+
+# Source data (may contain personal information)
+data/
+
+# Temporary files
+*.tmp
