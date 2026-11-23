@@ -1,6 +1,6 @@
 ### Структура проекта
 
-* data — исходные данные социальной сети.
+* data — исходные данные социальной сети.(people.csv, groups.csv, chat.scv)
 * sql/stg — SQL для создания и загрузки промежуточных таблиц.
 * sql/data_vault — SQL для Hubs, Links и Satellites.
 * sql/analytics — аналитические витрины.
